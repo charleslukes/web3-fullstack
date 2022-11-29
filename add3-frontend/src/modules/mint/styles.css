@@ -1,0 +1,15 @@
+input {
+    padding: 1rem;
+    border-radius: 0.2rem;
+}
+
+.mint-bottom-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.processing {
+    display: flex;
+    justify-content: center;
+}

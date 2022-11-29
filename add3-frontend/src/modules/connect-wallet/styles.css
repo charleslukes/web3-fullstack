@@ -1,0 +1,8 @@
+.connect {
+    display: flex;
+    justify-content: end;
+}
+.connect-addr {
+    font-weight: 600;
+}
+

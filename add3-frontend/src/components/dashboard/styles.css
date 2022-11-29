@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    padding: 2rem 0;
+}
+
+.container > div {
+    margin-right: .9rem;
+}
