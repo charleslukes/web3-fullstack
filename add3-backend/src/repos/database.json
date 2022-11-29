@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "walletAddress": "0xD18d08DbFCf9b280D990e8073D28a947a40DB584",
+      "id": 970226350105
+    }
+  ],
+  "mints": [
+    {
+      "userWalletAddress": "0xD18d08DbFCf9b280D990e8073D28a947a40DB584",
+      "receiverAddress": "0xd84b79a53eb1D0Adc09ce3EbacDa9343dec801e0",
+      "amount": 10,
+      "transactionHash": "0x53a39fed54a4240418ad9c26d2c59e252738795a7f871d093d37f3959521ebfd",
+      "userId": 970226350105,
+      "id": 410213041164
+    }
+  ]
+}
